@@ -1,3 +1,14 @@
+#  Components
+Salah satu konsep penting pada React JS yaitu components.
+
+React adalah Single Page Application (SPA) yang memiliki multiple components.
+
+Sebagai contoh, membuat sebuah folder components di dalam folder src.
+
+Kemudian buat sebuah file components bernama “Header.js” di dalam folder tersebut.
+
+ke browser, jika berjalan dengan baik, maka akan muncul tulisan sebagai berikut: "Ini Adalah Components Header"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
